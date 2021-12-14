@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+body {
+    background: #9E99B9;
+}
+
+
+.box{
+    margin-top: 250px;
+    width: 250px;
+    height: 250px;
+    border: #58BEAC 3px solid;
+    background: #B5D0E0
+}
+
+.box.circle {
+    background: #FFD5D1;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    border: #FFE38B 3px solid;
+ }
